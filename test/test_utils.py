@@ -1,7 +1,7 @@
 import unittest
 from utils import add_numbers, greet, calculate_mean
 
-class UtilsTest(unittest.TestCase):
+class TestUtils(unittest.TestCase):
 
     def test_add_numbers(self):
         self.assertEqual(add_numbers(2, 3), 5)
