@@ -151,13 +151,13 @@ The project includes a `.vscode/launch.json` file with debug configurations for:
 
 ### main.py
 The main Python script that demonstrates:
-- Importing and using NumPy for numerical operations
-- Function usage
 - Basic Python programming concepts
+- Function usage
 
 ### utils.py
 The utilities Python functions file:
 - Function definitions
+- Importing and using NumPy for numerical operations
 
 ### test/test_utils.py
 Unit tests using Python's built-in `unittest` framework:
@@ -169,6 +169,8 @@ Unit tests using Python's built-in `unittest` framework:
 Lists all external dependencies:
 ```
 numpy>=1.21.0
+autopep8==2.3.2
+flake8==7.3.0
 ```
 
 ## Virtual Environment Management
