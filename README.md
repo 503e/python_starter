@@ -247,6 +247,17 @@ After completing this tutorial, consider exploring:
 - [Python Virtual Environments Guide](https://docs.python.org/3/tutorial/venv.html)
 - [unittest Documentation](https://docs.python.org/3/library/unittest.html)
 
+### License
+
+This project uses the **MIT License**, which is one of the simplest and most open licenses. In plain terms, it means:
+
+- Anyone is free to **use, copy, and share** this code.  
+- You can **modify it** to fit your own ideas or projects.  
+- There are **no costs or restrictions** for learning, teaching, or competing.  
+- The code is provided **as-is**, so if something doesn’t work as expected, the authors aren’t responsible for fixing it.  
+
+In short: it’s free to use, free to learn from, and free to share. 🚀
+
 ---
 
 Happy coding! 🐍
