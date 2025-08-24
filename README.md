@@ -9,7 +9,7 @@ python_starter/
 ├── .venv/                 # Virtual environment (created after setup)
 ├── test/                  # Unit tests directory
 │   ├── __init__.py
-│   └── test_utils.py      # Unit tests for main.py
+│   └── test_utils.py      # Unit tests for utils.py
 ├── main.py                # Main Python script
 ├── utils.py               # Python utility functions
 ├── requirements.txt       # Python dependencies
