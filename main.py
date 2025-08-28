@@ -7,7 +7,7 @@ def main():
     result = add_numbers(5, 7)
     print(f"5 + 7 = {result}")
 
-    message = greet("Point Loma")
+    message = greet("Point Loma, this is Luke")
     print(message)
 
     numbers = [10, 20, 30, 40]
